@@ -1,0 +1,2 @@
+# Strufelo
+Intelligent game
